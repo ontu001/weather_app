@@ -1,1 +1,3 @@
-"# weather_app" 
+In this code, the get_weather function makes a GET request to the OpenWeatherMap API to retrieve the weather information for the specified city. The response is a JSON object that contains various weather data, including the temperature and weather description. The function returns a formatted string with the temperature and weather description.
+
+Note: To use this code, you need to obtain an API key from OpenWeatherMap and replace the API_KEY placeholder with your actual API key.

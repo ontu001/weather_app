@@ -14,3 +14,6 @@ def get_weather(city):
 
 city = input("Enter city name: ")
 print(get_weather(city))
+
+
+#md rohanur rahman ontu
